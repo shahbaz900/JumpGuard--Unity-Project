@@ -6,34 +6,34 @@ https://github.com/shahbaz900/JumpGuard--Unity-Project/assets/118073086/88922594
 
 
 **BASIC INTRODUCTION:**
-/n Protect yourself in this fast-paced Unity game! Jump over dynamically generated enemies. Easy to play, challenging to master. 
-/n **DESCRIPTION:**
-/n JumpGuard is an exhilarating and addictive run-and-play game developed using Unity, 
+Protect yourself in this fast-paced Unity game! Jump over dynamically generated enemies. Easy to play, challenging to master. 
+**DESCRIPTION:**
+JumpGuard is an exhilarating and addictive run-and-play game developed using Unity, 
 where players must utilize their jumping skills and quick reflexes to protect themselves from hordes of randomly generated enemies. 
 Get ready to embark on a thrilling adventure that challenges your timing, coordination, and strategic thinking!
 
-/n **Key Features:**
+**Key Features:**
 
-/n 🏃 Fast-Paced Gameplay: JumpGuard offers heart-pounding action that keeps you on the edge of your seat. 
+🏃 Fast-Paced Gameplay: JumpGuard offers heart-pounding action that keeps you on the edge of your seat. 
     The game mechanics are easy to pick up, making it accessible for players of all skill levels, 
     yet the increasing difficulty ensures a continuous challenge.
 
-/n 🤖 Dynamic Enemy Generation: Enemies are dynamically generated, providing a unique experience with each playthrough.
+🤖 Dynamic Enemy Generation: Enemies are dynamically generated, providing a unique experience with each playthrough.
     React quickly to various enemy types, each with their own behavior and movement patterns.
 
-/n 🎮 Intuitive Controls: JumpGuard boasts intuitive controls, allowing players to navigate their character with precision. 
+🎮 Intuitive Controls: JumpGuard boasts intuitive controls, allowing players to navigate their character with precision. 
     Master the art of jumping to avoid enemies and strategically time your movements to survive longer.
 
-/n 🌎 Engaging Environments: Explore vibrant and dynamic environments that change as you progress. 
+🌎 Engaging Environments: Explore vibrant and dynamic environments that change as you progress. 
     Each level introduces new challenges, obstacles, and enemy combinations, ensuring that gameplay remains exciting and unpredictable.
 
-/n **How to Play:**
+**How to Play:**
 
 Use the arrow keys controls to move your character left or right.
 Tap the screen to make your character jump.
 Avoid enemies by jumping over or away from them.
 
-/n**Development:**
+**Development:**
 
 JumpGuard is an open-source project developed using Unity, providing an opportunity for aspiring game developers and Unity enthusiasts
 to learn, contribute, and customize the game. The game's codebase is hosted on GitHub, allowing developers to collaborate, 
