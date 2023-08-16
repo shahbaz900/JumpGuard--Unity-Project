@@ -1,5 +1,5 @@
 # JumpGuard--Unity-Project
-GAMEPLAY:
+**GAMEPLAY:**
 
 
 https://github.com/shahbaz900/JumpGuard--Unity-Project/assets/118073086/88922594-bfa6-4af3-af4d-8d8ed3c47ec2
