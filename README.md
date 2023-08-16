@@ -1,4 +1,10 @@
 # JumpGuard--Unity-Project
+GAMEPLAY:
+
+
+https://github.com/shahbaz900/JumpGuard--Unity-Project/assets/118073086/88922594-bfa6-4af3-af4d-8d8ed3c47ec2
+
+
 BASIC INTRODUCTION:
 Protect yourself in this fast-paced Unity game! Jump over dynamically generated enemies. Easy to play, challenging to master. 
 DESCRIPTION:
@@ -35,3 +41,4 @@ suggest improvements, and build upon the existing foundation.
 
 Join us in the thrilling world of JumpGuard and experience the excitement of protecting yourself from relentless enemies through precise
 jumping and strategic maneuvering. Sharpen your skills, set new records, and become a true JumpGuard master!
+
